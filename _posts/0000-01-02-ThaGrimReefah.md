@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	**Add BOLD STYLE**
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
